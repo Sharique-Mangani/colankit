@@ -1,0 +1,22 @@
+{
+  "name": "colankit-dev",
+  "version": "1.0.1",
+  "description": "this is an UI kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharique-Mangani/colankit-dev.git"
+  },
+  "keywords": [
+    "UIkit"
+  ],
+  "author": "Colan InfoTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharique-Mangani/colankit-dev/issues"
+  },
+  "homepage": "https://github.com/Sharique-Mangani/colankit-dev#readme"
+}
